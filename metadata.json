@@ -1,0 +1,6 @@
+{
+  "name": "PerformerHub",
+  "description": "PerformerHub – Talent Aapka, Stage Hamara! Premier live stage and talent marketplace for singers, dancers, comedians, musicians, DJs, magicians and event organizers to connect, showcase, and book gigs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
